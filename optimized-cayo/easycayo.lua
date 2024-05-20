@@ -106,7 +106,7 @@
 		while true do
 			SetRadarAsExteriorThisFrame()
 			SetRadarAsInteriorThisFrame(`h4_fake_islandx`, vector3(4700.0, -5145.0, 0), 0, 0)
-			Wait(100)
+			Wait(3)
 		end
 	end)
 	
